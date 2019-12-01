@@ -30,7 +30,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyPattern.Test" />
+      <module name="testpatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuilderPattern.Test" />
       <module name="testpatterns" />
@@ -40,6 +47,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -67,33 +75,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="546" y="183" key="#Notifications" timestamp="1575171424394">
+    <state x="546" y="183" key="#Notifications" timestamp="1575171723993">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="546" y="183" key="#Notifications/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171424394" />
+    <state x="546" y="183" key="#Notifications/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171723993" />
     <state x="552" y="183" key="#Project_Structure" timestamp="1575169314985">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Project_Structure/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575169314985" />
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575169383369">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575171694069">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575169383369" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1575171310644">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171694069" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1575172221774">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171310644" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1575171310644">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1575172221774">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171310644" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1575171310644">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1575172221773">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171310644" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1575171310644">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221773" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1575172221774">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171310644" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
   </component>
 </project>

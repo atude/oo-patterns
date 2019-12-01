@@ -1,14 +1,14 @@
-/**     Builder Pattern
+/** -> Builder Pattern
  *
- *   1. Create builder interface with setters
- *   2. Create classes for products
- *   3. Implement builder interface for each type of
- *      the same product, which can return the product
- *   4. Build manually and return product
- *      OR
- *   4. Create Director to make products using builders
- *   5. Create new director and create related builders,
- *      and return builder result for related product.
+ *  1. Create builder interface with setters
+ *  2. Create classes for products
+ *  3. Implement builder interface for each type of
+ *     the same product, which can return the product
+ *  4. Build manually and return product
+ *     OR
+ *  4. Create Director to make products using builders
+ *  5. Create new director and create related builders,
+ *     and return builder result for related product.
  *
  */
 
