@@ -1,3 +1,12 @@
+/** Observer Pattern
+ *
+ *  1. Create observer interface
+ *  2. Create subject interface with add, remove and notify
+ *  3. Implement variations of observers
+ *  4. Add listeners externally
+ *
+ */
+
 package ObserverPattern;
 
 import java.util.ArrayList;
@@ -35,9 +44,6 @@ class Weather implements Subject {
     public Weather() {
         this.observers = new ArrayList<>();
         this.temp = 0;
-
-        observers.add(new PrintCelsius());
-        observers.add(new PrintFahrenheit());
     }
 
     public void setWeather(double newTemp) {
@@ -66,6 +72,11 @@ class Weather implements Subject {
 class Test {
     public static void main(String[] args) {
         Weather weather = new Weather();
+
+        weather.addListener(new PrintCelsius());
+        weather.addListener(new PrintFahrenheit());
+
         weather.setWeather(30);
+        weather.setWeather(12);
     }
 }

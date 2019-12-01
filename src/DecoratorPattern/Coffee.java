@@ -21,9 +21,9 @@ interface CoffeeDecorator extends Coffee {
     double getCost();
 }
 
-class Espresso implements Coffee {
+class DarkRoast implements Coffee {
     public String getDesc() {
-        return "-> Espresso";
+        return "-> Dark Roast";
     }
 
     public double getCost() {
@@ -31,9 +31,9 @@ class Espresso implements Coffee {
     }
 }
 
-class FlatWhite implements Coffee {
+class LightRoast implements Coffee {
     public String getDesc() {
-        return "-> FlatWhite";
+        return "-> Light Roast";
     }
 
     public double getCost() {
@@ -107,10 +107,10 @@ class Sugar implements CoffeeDecorator {
 
 class Test {
     public static void main(String[] args) {
-        Coffee coffee1 = new FlatWhite();
+        Coffee coffee1 = new DarkRoast();
         coffee1 = new FullMilk(new Chocolate(coffee1));
 
-        Coffee coffee2 = new Espresso();
+        Coffee coffee2 = new LightRoast();
         coffee2 = new SkimMilk(new Chocolate(new Sugar(new Sugar(coffee2))));
 
         System.out.println(coffee1.getDesc());
