@@ -29,7 +29,7 @@ class SortDesc implements SortStrategy {
 }
 
 class Test {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         ArrayList<Integer> testNumbers = new ArrayList<Integer>();
 
         testNumbers.add(3);

@@ -30,9 +30,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StrategyPattern.Test" />
+      <module name="testpatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatePattern.Test" />
       <module name="testpatterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
@@ -83,25 +91,25 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Project_Structure/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575169314985" />
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575171694069">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575177529365">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171694069" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1575172221774">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575177529365" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1575177610099">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1575172221774">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575177610099" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1575177610098">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1575172221773">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575177610098" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1575177610098">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221773" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1575172221774">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575177610098" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1575177610099">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575172221774" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575177610099" />
   </component>
 </project>
