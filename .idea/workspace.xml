@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UMbE7UHUvfyT87vSaLduWDla5F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,6 +67,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="546" y="183" key="#Notifications" timestamp="1575171424394">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="546" y="183" key="#Notifications/1920.0.1500.985/0.0.1920.1050@0.0.1920.1050" timestamp="1575171424394" />
     <state x="552" y="183" key="#Project_Structure" timestamp="1575169314985">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
