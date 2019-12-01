@@ -1,4 +1,5 @@
-/** -> State Pattern
+/**
+ *  -> State Pattern
  *
  *  1. Create interface for state functions
  *  2. Create classes for each state

@@ -1,4 +1,5 @@
-/** -> Strategy Pattern
+/**
+ *  -> Strategy Pattern
  *
  *  1. Create interface for strategies
  *  2. Implement interface and create strategies

@@ -1,3 +1,13 @@
+/**
+ *  -> Template Pattern
+ *
+ *  1. Create abstract class template with all possible
+ *     steps for product (including preset functions and abstract functions)
+ *  2. Create final void make function which builds product based on steps
+ *  3. Extend template and modify steps to create different products
+ *
+ */
+
 package TemplatePattern;
 
 abstract class BurgerTemplate {

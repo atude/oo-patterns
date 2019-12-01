@@ -1,3 +1,12 @@
+/**
+ *  -> Factory Pattern
+ *
+ *  1. Create interface for base object
+ *  2. Implement variations of object
+ *  3. Create factory class which returns instance of object
+ *
+ */
+
 package FactoryPattern;
 
 interface OS {

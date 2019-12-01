@@ -1,4 +1,5 @@
-/** -> Decorator Pattern
+/**
+ *  -> Decorator Pattern
  *
  *  1. Create base interface
  *  2. Create decorator interface which implements the base interface

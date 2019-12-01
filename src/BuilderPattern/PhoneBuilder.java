@@ -1,4 +1,5 @@
-/** -> Builder Pattern
+/**
+ *  -> Builder Pattern
  *
  *  1. Create builder interface with setters
  *  2. Create classes for products

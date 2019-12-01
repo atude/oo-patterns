@@ -1,4 +1,5 @@
-/** Observer Pattern
+/**
+ *  -> Observer Pattern
  *
  *  1. Create observer interface
  *  2. Create subject interface with add, remove and notify
