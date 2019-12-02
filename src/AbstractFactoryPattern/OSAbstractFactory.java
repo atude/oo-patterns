@@ -97,6 +97,7 @@ class Test {
         }
 
         System.out.println(os.getUI().button());
+        System.out.println(os.getMenu().menu());
     }
 }
 
