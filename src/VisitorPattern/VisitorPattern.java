@@ -1,3 +1,13 @@
+/**
+ *  -> Visitor Pattern
+ *
+ *  1. Create a visitable interface with a function that can accept a visitor
+ *  2. Create a visitor interface that overloads the same method by
+ *     taking in different types of visitors
+ *  3. Implement different visitors with visit functions for each type of visitor
+ *
+ */
+
 package VisitorPattern;
 
 interface Visitable {

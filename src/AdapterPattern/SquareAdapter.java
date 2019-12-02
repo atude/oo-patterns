@@ -1,9 +1,18 @@
+/**
+ *  -> Adapter Pattern
+ *
+ *  1. Implement the desired interface as an adapter
+ *  2. Override the functions using the incompatible object
+ *
+ */
+
 package AdapterPattern;
 
 interface Square {
     int getX();
     int getY();
 }
+
 class SquareObj implements Square {
     int x;
     int y;
@@ -37,6 +46,7 @@ class CircleObj implements Circle {
         return this.width;
     }
 }
+
 class SquareAdapter implements Circle {
     Square square;
 
